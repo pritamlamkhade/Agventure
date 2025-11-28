@@ -3,6 +3,10 @@
 A modern React-based e-commerce platform for selling organic fruits, vegetables, gardening tools, vermicompost, organic fertilizers, and home-garden products.
 Built with React + Redux Toolkit, featuring RTK Query for API calls and i18next for multilingual support.
 
+## 🔗 Live Demo
+ - link
+
+
 ## ✨ Features
 
 
@@ -55,13 +59,13 @@ Built with React + Redux Toolkit, featuring RTK Query for API calls and i18next 
 
 This project is for educational purposes. 
 
-## 🙋‍♂️ Contributing
+## 🙋‍♀️ Contributing
 
 Pull requests are welcome. If you find a bug or want to propose a feature, feel free to [open an issue](https://github.com/pritamlamkhade/Agventure/issues).
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 - [Pritam Lamkhade](https://www.linkedin.com/in/pritamlamkhade/)
 
